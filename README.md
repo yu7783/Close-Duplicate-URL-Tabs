@@ -1,14 +1,6 @@
 # Close-Duplicate-URL-Tabs
 This Chrome extension can close duplicate tabs.
 
-#How to use
-1. Open the extensions settings page in your Chromium-based browser.
-2. Toggle the “Developer mode” switch to “On.”
-3. Load the file.
-4. Pin this extension and click the icon.
-# Close-Duplicate-URL-Tabs
-This Chrome extension closes duplicate tabs in Chromium-based browsers.
-
 ## How to use
 1. Open the extensions settings page in your browser.
 2. Enable "Developer mode."
