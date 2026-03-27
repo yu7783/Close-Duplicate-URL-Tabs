@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Close Duplicate URL Tabs",
+  "version": "1.0.0",
+  "description": "同じURLのタブが複数あれば一括で閉じる",
+  "permissions": ["tabs"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "同一URLタブを整理"
+  }
+}
